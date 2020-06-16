@@ -1,0 +1,13 @@
+.jumbotron {
+  margin-left: -20px;
+  margin-right: -20px;
+  margin-bottom: 13px;
+  background-image: url("/images/books-bg.jpg");
+  height: 340px;
+  font-family: "Sriracha", cursive;
+  border-radius: 0 !important;
+}
+
+.lead {
+  font-size: 30px;
+}

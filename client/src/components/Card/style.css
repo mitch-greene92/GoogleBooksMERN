@@ -1,0 +1,13 @@
+.card {
+  width: 100%;
+}
+
+.header {
+  margin-bottom: 0;
+  line-height: 1;
+}
+.card-header h3 {
+  font-family: "Sriracha", cursive;
+  color: #ffffff;
+  margin-bottom: 0;
+}

@@ -1,0 +1,31 @@
+.card-text {
+  font-family: "Sriracha", cursive;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+button:nth-child(2) {
+  margin-right: 10px;
+}
+
+.card {
+  font-family: "Sriracha", cursive;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.20),
+    0 3px 6px rgba(0, 0, 0, 0.23);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.card-title {
+  margin-bottom: 0 !important;
+  font-family: "Sriracha", cursive;
+  font-weight: bold;
+}
+
+h5 {
+  font-family: "Sriracha", cursive;
+  font-weight: bold;
+}

@@ -1,0 +1,21 @@
+footer a:hover {
+  color: rgb(48, 44, 44);
+  text-shadow: white;
+}
+
+.fab {
+  padding-right: 9px;
+}
+
+.footer {
+  color: #f5f5f5 !important;
+  margin-top: 24px;
+}
+
+footer span {
+  font-size: 16px;
+}
+
+footer a {
+  color: #f5f5f5;
+}
